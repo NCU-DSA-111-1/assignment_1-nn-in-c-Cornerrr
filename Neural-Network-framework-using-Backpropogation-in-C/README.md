@@ -96,3 +96,4 @@ gcc main.c -lm layer.c neuron.c
 # Run
 ./a.out
 ```
+
